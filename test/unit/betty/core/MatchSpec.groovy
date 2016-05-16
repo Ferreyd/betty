@@ -1,5 +1,6 @@
 package betty.core
 
+import betty.organisation.Match
 import grails.test.mixin.TestFor
 import spock.lang.Specification
 

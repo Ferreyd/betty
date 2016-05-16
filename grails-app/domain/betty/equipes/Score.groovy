@@ -1,4 +1,6 @@
-package betty.core
+package betty.equipes
+
+import betty.organisation.Match
 
 class Score {
     int scoreEquipeA
@@ -8,6 +10,7 @@ class Score {
 
 
     boolean tirAuxButs = false
+    boolean prolongation = false
     static constraints = {
     }
 }

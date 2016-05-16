@@ -1,5 +1,6 @@
 package betty.core
 
+import betty.organisation.Prediction
 import grails.test.mixin.TestFor
 import spock.lang.Specification
 

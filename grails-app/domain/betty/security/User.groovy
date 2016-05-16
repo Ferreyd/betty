@@ -1,8 +1,6 @@
 package betty.security
 
-import betty.core.Match
-import betty.core.Prediction
-import grails.plugin.mail.MailMessageBuilder
+import betty.organisation.Prediction
 
 class User implements Serializable {
 
